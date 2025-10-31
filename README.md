@@ -1,71 +1,72 @@
-<!-- 💫 Ultimate Animated GitHub Profile README -->
-<!-- Replace YOUR_USERNAME and YOUR_NAME below -->
+<!-- 🌸 Prisha's Animated Futuristic GitHub Profile README -->
+<!-- Designed with love & motion 💖 -->
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20I'm%20YOUR_NAME!%20👋&fontAlign=50&fontAlignY=40&color=0:00FFFF,100:8A2BE2&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20I'm%20Prisha!%20💖&fontAlign=50&fontAlignY=40&color=0:ffb6c1,100:87cefa&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=2000&color=00FFFF&center=true&vCenter=true&width=650&lines=✨+Coding+my+dreams+into+reality;🚀+Learning+AI,+Web,+and+App+Development;💻+C,+Python,+JavaScript,+and+more;🎯+Never+stop+creating!;🌈+Welcome+to+my+GitHub+Universe!)](https://git.io/typing-svg)
-
----
-
-### 🧠 About Me
-🎓 12th-Grade Student | 💻 Maths & Computer Science Stream  
-💡 Passionate about **C, Python, JavaScript, and Web Dev**  
-🎨 Enjoy turning **ideas into interactive projects**  
-🎧 Code + Music = Perfect Flow  
-🌟 Goal → Build creative tech that inspires people  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=2000&color=FFB6C1&center=true&vCenter=true&width=650&lines=✨+12th+Grade+Student+%7C+Maths+%26+CS+Learner;💻+C,+Python,+and+Web+Developer;🌸+Dreamer+%7C+Creator+%7C+Innovator;🎧+Coding+in+Calm+Futuristic+Vibes;🌈+Welcome+to+my+Digital+Space!)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🌷 About Me
+
+🌸 12th-Grade Student (CBSE) — Maths & Computer Science Stream  
+💻 Love writing clean, logical, creative code  
+🧠 Exploring the world of **C, Python, and JavaScript**  
+🎨 Aesthetic mindset + analytical brain = my coding flow  
+☁️ Calm tech dreamer who codes with colors  
+
+---
+
+## 🛠️ My Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,java,git,github,vscode,linux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,java,nodejs,git,github,vscode,linux&theme=light" />
 </p>
 
 ---
 
-## 🚀 GitHub Power Stats
+## 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=79ff97" width="48%">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&currStreakLabel=00FFFF" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prisha38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffb6c1&icon_color=87cefa" width="48%">
+  <img src="https://streak-stats.demolab.com?user=Prisha38&theme=tokyonight&hide_border=true&background=0d1117&ring=ffb6c1&currStreakLabel=87cefa" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFFF" width="60%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prisha38&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ffb6c1" width="60%">
 </p>
 
 ---
 
-## 💬 Daily Quote & 😂 Joke
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prisha38&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## 🪄 My GitHub Galaxy
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00ffff&line=79ff97&point=ffffff&area=true&hide_border=true)
+## 💫 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prisha38&bg_color=0d1117&color=ffb6c1&line=87cefa&point=ffffff&area=true&hide_border=true)
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Prisha38/Prisha38/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎧 Now Playing on Spotify
-![Spotify](https://novatorem-YOUR_USERNAME.vercel.app/api/spotify)
+## 💬 Daily Inspiration
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## ☁️ Live Info Widgets
+## 🎧 Now Playing
+![Spotify](https://novatorem-prisha38.vercel.app/api/spotify)
+
+---
+
+## ☁️ Info Widgets
 <p align="center">
   <img src="https://weather-icon-badge.vercel.app/api/svg?location=Delhi&theme=tokyonight" />
   <img src="https://github-readme-clock.vercel.app/api/time?timezone=Asia/Kolkata" />
@@ -74,19 +75,20 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Prisha38"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prisha38"><img src="https://img.shields.io/badge/LinkedIn-87cefa?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 👀 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FFFF&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=Prisha38&color=ffb6c1&style=for-the-badge)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:87cefa,100:ffb6c1&height=120&section=footer&animation=twinkling)
 
 </div>
