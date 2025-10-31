@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/Prisha38"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:prishadhandapani38@gmail.com"><img src="https://img.shields.io/badge/Email-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prisha38"><img src="https://img.shields.io/badge/LinkedIn-87cefa?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
