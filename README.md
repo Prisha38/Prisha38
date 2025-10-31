@@ -13,7 +13,7 @@
 
 🌸 12th-Grade Student (CBSE) — Maths & Computer Science Stream  
 💻 Love writing clean, logical, creative code  
-🧠 Exploring the world of **C, Python, and JavaScript**  
+🧠 Exploring the world of **C, Python, and MySQL**  
 🎨 Aesthetic mindset + analytical brain = my coding flow  
 ☁️ Calm tech dreamer who codes with colors  
 
