@@ -11,8 +11,8 @@
 
 ### 🌷 About Me
 
-🌸 12th-Grade Student (CBSE) — Maths & Computer Science Stream  
-💻 Love writing clean, logical, creative code  
+🌸 a first year student in IT department at St.Joseph's College of Engineering.
+💻 Love writing clean, logical, creative code.
 🧠 Exploring the world of **C, Python, and MySQL**  
 🎨 Aesthetic mindset + analytical brain = my coding flow  
 ☁️ Calm tech dreamer who codes with colors  
