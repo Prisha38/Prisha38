@@ -1,5 +1,5 @@
 <!-- 🌸 Prisha's Animated Futuristic GitHub Profile README -->
-<!-- Designed with love & motion 💖 -->
+<!-- Designed with love & motion  -->
 
 <div align="center">
 
@@ -13,9 +13,9 @@
 
 🌸 a first year student in IT department at St.Joseph's College of Engineering.
 💻 Love writing clean, logical, creative code.
-🧠 Exploring the world of **C, Python, and MySQL**  
-🎨 Aesthetic mindset + analytical brain = my coding flow  
-☁️ Calm tech dreamer who codes with colors  
+🧠 Exploring the world of **C, Python, and MySQL.**  
+🎨 Aesthetic mindset + analytical brain = my coding flow.
+☁️ Calm tech dreamer who codes with colors. 
 
 ---
 
