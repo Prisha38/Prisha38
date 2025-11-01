@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20I'm%20Prisha!%20💖&fontAlign=50&fontAlignY=40&color=0:ffb6c1,100:87cefa&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey%20I'm%20Prisha!%20&fontAlign=50&fontAlignY=40&color=0:ffb6c1,100:87cefa&fontColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=2000&color=FFB6C1&center=true&vCenter=true&width=650&lines=✨+12th+Grade+Student+%7C+Maths+%26+CS+Learner;💻+C,+Python,+and+Web+Developer;🌸+Dreamer+%7C+Creator+%7C+Innovator;🎧+Coding+in+Calm+Futuristic+Vibes;🌈+Welcome+to+my+Digital+Space!)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 ### 🌷 About Me
 
-🌸 a first year student in IT department at St.Joseph's College of Engineering.
+🌸 A first year student in IT department at St.Joseph's College of Engineering.
 💻 Love writing clean, logical, creative code.
 🧠 Exploring the world of **C, Python, and MySQL.**  
 🎨 Aesthetic mindset + analytical brain = my coding flow.
